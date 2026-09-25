@@ -1,0 +1,9 @@
+obj_dir/
+*.vcd
+*.fst
+*.log
+*.gtkw
+*.o
+*.a
+*.so
+.vscode/
